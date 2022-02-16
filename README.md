@@ -1,2 +1,2 @@
-# Meus_primeiros_c-digos
+# Meus_primeiros_códigos
 Algoritmos criados no curso de algoritmos e lógica
