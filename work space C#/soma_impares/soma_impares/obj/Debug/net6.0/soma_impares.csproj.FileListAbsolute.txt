@@ -1,0 +1,14 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\ref\soma_impares.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache

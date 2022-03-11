@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\retangulo.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\retangulo.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\retangulo.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\retangulo.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\ref\retangulo.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\bin\Debug\net6.0\retangulo.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\ref\retangulo.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\retangulo\retangulo\obj\Debug\net6.0\retangulo.genruntimeconfig.cache

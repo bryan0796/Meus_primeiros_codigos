@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\hello world.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\hello world.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\hello world.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\hello world.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\ref\hello world.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\bin\Debug\net6.0\hello world.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.vbproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.AssemblyInfo.vb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.vbproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\ref\hello world.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\hello world\hello world\obj\Debug\net6.0\hello world.genruntimeconfig.cache

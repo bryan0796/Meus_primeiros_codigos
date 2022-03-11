@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\idades.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\idades.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\idades.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\idades.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\ref\idades.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\bin\Debug\net6.0\idades.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\ref\idades.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\idades\idades\obj\Debug\net6.0\idades.genruntimeconfig.cache

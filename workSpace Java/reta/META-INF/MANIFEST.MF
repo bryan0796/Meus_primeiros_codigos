@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Reta
+Bundle-SymbolicName: reta
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: reta
+Bundle-RequiredExecutionEnvironment: JavaSE-17

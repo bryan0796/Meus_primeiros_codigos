@@ -1,0 +1,37 @@
+import java.util.Scanner;
+public class crescente {
+
+	public static void main(String[] args) {
+	   
+	   Scanner sc = new Scanner(System.in);
+	   
+	   int x, y, troca;
+	   
+	   System.out.println("Digite dois numeros: ");
+	   x = sc.nextInt();
+	   y = sc.nextInt();
+	   
+	   if (x > y) {
+		   troca = y;
+		   y = x;
+		   x = troca;
+	   }
+       
+	   while (x != y){
+	   
+	      if (x < y) {
+		     System.out.println("Crescente.");
+	      }
+	      else if {
+		     System.out.println("Decrescente.");
+	      }
+	      
+	      System.out.println("Digite dois numeros: ");
+		   x = sc.nextInt();
+		   y = sc.nextInt();
+		   
+	   }
+	   sc.close();
+	}
+
+}

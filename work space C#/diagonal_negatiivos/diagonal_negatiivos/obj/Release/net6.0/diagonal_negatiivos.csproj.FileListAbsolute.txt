@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\diagonal_negatiivos.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\diagonal_negatiivos.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\diagonal_negatiivos.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\diagonal_negatiivos.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\ref\diagonal_negatiivos.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\bin\Release\net6.0\diagonal_negatiivos.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\ref\diagonal_negatiivos.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Release\net6.0\diagonal_negatiivos.genruntimeconfig.cache

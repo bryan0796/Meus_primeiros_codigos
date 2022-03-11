@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.exe
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.deps.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.runtimeconfig.json
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\ref\soma_vetor.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\bin\Debug\net6.0\soma_vetor.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\ref\soma_vetor.dll
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.pdb
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\soma_vetor\soma_vetor\obj\Debug\net6.0\soma_vetor.genruntimeconfig.cache

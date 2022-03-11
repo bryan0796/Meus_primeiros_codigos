@@ -1,0 +1,10 @@
+package retanfulo;
+
+public class menor_de_tres {
+
+	public static void main(String[] args) {
+		method stub
+
+	}
+
+}

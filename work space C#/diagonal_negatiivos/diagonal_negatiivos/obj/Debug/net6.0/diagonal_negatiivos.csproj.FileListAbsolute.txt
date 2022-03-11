@@ -1,0 +1,5 @@
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Debug\net6.0\diagonal_negatiivos.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Debug\net6.0\diagonal_negatiivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Debug\net6.0\diagonal_negatiivos.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Debug\net6.0\diagonal_negatiivos.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Meus primeiros códigos\work space C#\diagonal_negatiivos\diagonal_negatiivos\obj\Debug\net6.0\diagonal_negatiivos.csproj.CoreCompileInputs.cache

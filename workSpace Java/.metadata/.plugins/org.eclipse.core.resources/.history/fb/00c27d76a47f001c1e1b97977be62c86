@@ -1,0 +1,33 @@
+import java.util.Scanner;
+import java.util.Locale;
+public class Main {
+
+	public static void main(String[] args) {
+				        
+				Scanner sc = new Scanner(System.in);
+				
+				double base, altura, area, perimetro, diagonal;
+				
+				System.out.print("Base do retangulo = ");
+				base = sc.nextDouble();
+				System.out.print("Altura do retangulo = ");
+				altura = sc.nextDouble();
+				
+				area = base * altura;
+				perimetro = 2 * (base + altura);
+				diagonal = Math.sqrt(Math.pow(base, 2) + Math.pow(altura, 2));
+				
+				System.out.println("Area = " + String.format("%.4f", area));
+				System.out.println("Perímetro = " + String.format("%.4", perimetro));
+				System.out.println("Diagonal = " + String.format("%.4f", diagonal));
+				
+				sc.close();
+				
+			}
+
+		}
+
+
+	
+
+

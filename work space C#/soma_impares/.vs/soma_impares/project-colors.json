@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0bc7126-31ee-4646-9303-d113af4b0dd7": {
+      "ProjectGuid": "d0bc7126-31ee-4646-9303-d113af4b0dd7",
+      "DisplayName": "soma_impares",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
